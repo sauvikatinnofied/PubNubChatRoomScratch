@@ -131,6 +131,9 @@
 		4551278C1AFA1EAD007E2956 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4551278B1AFA1EAC007E2956 /* SystemConfiguration.framework */; };
 		4551278E1AFA1EB5007E2956 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4551278D1AFA1EB5007E2956 /* CFNetwork.framework */; };
 		455127901AFA1ECB007E2956 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 4551278F1AFA1ECB007E2956 /* libz.dylib */; };
+		455127951AFA3500007E2956 /* msgBGInComing.png in Resources */ = {isa = PBXBuildFile; fileRef = 455127921AFA3500007E2956 /* msgBGInComing.png */; };
+		455127961AFA3500007E2956 /* msgBGOutGoing.png in Resources */ = {isa = PBXBuildFile; fileRef = 455127931AFA3500007E2956 /* msgBGOutGoing.png */; };
+		455127971AFA3500007E2956 /* pubNub.png in Resources */ = {isa = PBXBuildFile; fileRef = 455127941AFA3500007E2956 /* pubNub.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -454,6 +457,9 @@
 		4551278B1AFA1EAC007E2956 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		4551278D1AFA1EB5007E2956 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		4551278F1AFA1ECB007E2956 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		455127921AFA3500007E2956 /* msgBGInComing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = msgBGInComing.png; sourceTree = "<group>"; };
+		455127931AFA3500007E2956 /* msgBGOutGoing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = msgBGOutGoing.png; sourceTree = "<group>"; };
+		455127941AFA3500007E2956 /* pubNub.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pubNub.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -515,6 +521,9 @@
 		455125B81AF9FDD0007E2956 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				455127921AFA3500007E2956 /* msgBGInComing.png */,
+				455127931AFA3500007E2956 /* msgBGOutGoing.png */,
+				455127941AFA3500007E2956 /* pubNub.png */,
 				455125B91AF9FDD0007E2956 /* Info.plist */,
 				455125BA1AF9FDD0007E2956 /* main.m */,
 			);
@@ -1093,6 +1102,9 @@
 				455125C91AF9FDD0007E2956 /* LaunchScreen.xib in Resources */,
 				455127661AFA127F007E2956 /* PNLoggerSymbols.plist in Resources */,
 				455125C61AF9FDD0007E2956 /* Images.xcassets in Resources */,
+				455127961AFA3500007E2956 /* msgBGOutGoing.png in Resources */,
+				455127971AFA3500007E2956 /* pubNub.png in Resources */,
+				455127951AFA3500007E2956 /* msgBGInComing.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

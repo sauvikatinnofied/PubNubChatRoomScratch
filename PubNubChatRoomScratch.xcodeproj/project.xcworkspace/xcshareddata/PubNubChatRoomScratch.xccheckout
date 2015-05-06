@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>15C638B0-CFF5-4B8A-A27E-3884059780D6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PubNubChatRoomScratch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CBDE14157034288B426B112967DD601B1CBCD52A</key>
+		<string>https://github.com/sauvikatinnofied/PubNubChatRoomScratch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PubNubChatRoomScratch.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CBDE14157034288B426B112967DD601B1CBCD52A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sauvikatinnofied/PubNubChatRoomScratch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CBDE14157034288B426B112967DD601B1CBCD52A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CBDE14157034288B426B112967DD601B1CBCD52A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PubNubChatRoomScratch</string>
+		</dict>
+	</array>
+</dict>
+</plist>
