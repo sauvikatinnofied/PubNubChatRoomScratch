@@ -134,6 +134,7 @@
 		455127951AFA3500007E2956 /* msgBGInComing.png in Resources */ = {isa = PBXBuildFile; fileRef = 455127921AFA3500007E2956 /* msgBGInComing.png */; };
 		455127961AFA3500007E2956 /* msgBGOutGoing.png in Resources */ = {isa = PBXBuildFile; fileRef = 455127931AFA3500007E2956 /* msgBGOutGoing.png */; };
 		455127971AFA3500007E2956 /* pubNub.png in Resources */ = {isa = PBXBuildFile; fileRef = 455127941AFA3500007E2956 /* pubNub.png */; };
+		45F702AD1B4FF11E00732B0A /* getfit_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 45F702AC1B4FF11E00732B0A /* getfit_icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -460,6 +461,7 @@
 		455127921AFA3500007E2956 /* msgBGInComing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = msgBGInComing.png; sourceTree = "<group>"; };
 		455127931AFA3500007E2956 /* msgBGOutGoing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = msgBGOutGoing.png; sourceTree = "<group>"; };
 		455127941AFA3500007E2956 /* pubNub.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pubNub.png; sourceTree = "<group>"; };
+		45F702AC1B4FF11E00732B0A /* getfit_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = getfit_icon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -521,6 +523,7 @@
 		455125B81AF9FDD0007E2956 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				45F702AC1B4FF11E00732B0A /* getfit_icon.png */,
 				455127921AFA3500007E2956 /* msgBGInComing.png */,
 				455127931AFA3500007E2956 /* msgBGOutGoing.png */,
 				455127941AFA3500007E2956 /* pubNub.png */,
@@ -1103,6 +1106,7 @@
 				455127661AFA127F007E2956 /* PNLoggerSymbols.plist in Resources */,
 				455125C61AF9FDD0007E2956 /* Images.xcassets in Resources */,
 				455127961AFA3500007E2956 /* msgBGOutGoing.png in Resources */,
+				45F702AD1B4FF11E00732B0A /* getfit_icon.png in Resources */,
 				455127971AFA3500007E2956 /* pubNub.png in Resources */,
 				455127951AFA3500007E2956 /* msgBGInComing.png in Resources */,
 			);
@@ -1430,6 +1434,7 @@
 				455125DA1AF9FDD1007E2956 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		455125DB1AF9FDD1007E2956 /* Build configuration list for PBXNativeTarget "PubNubChatRoomScratchTests" */ = {
 			isa = XCConfigurationList;
@@ -1438,6 +1443,7 @@
 				455125DD1AF9FDD1007E2956 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
